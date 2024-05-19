@@ -1,0 +1,10 @@
+Costs in 2050 under the Global NZE by 2050 scenario in GenCost 2022-2023 final report,,,,,
+technology,CAP [AUD/kW],fixed O&M [AUD/kW/yr],variable O&M [AUD/MWh],CO2 store [AUD/MWh],fuel [AUD/MWh]
+onshore,1642,25,0,0,0
+solar,498,17,0,0,0
+gasCCS,3012,16.35,7.2,1.9,106.568181818182
+coalCCS,8083,77.8,7.95,4.13,34.6
+rooftop solar,483,17,0,0,0
+grid solar,513,17,0,0,0
+biomass,7292,131.6,8.4,0,0
+hydro,5500,100,0,0,0

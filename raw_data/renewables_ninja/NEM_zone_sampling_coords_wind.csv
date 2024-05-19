@@ -1,0 +1,50 @@
+name,lat,lon,location,capacity_MW,note
+NSA_main,-33.83,138.12,Snowtown,369,existing
+NSA_Augusta,-32.62,137.58,Lincoln Gap,,REZ
+NSA_EyreE,-34.85,135.58,Cathedral Rocks,66,REZ
+NSA_EyreW,-32.83,134.17,Streaky Bay,N/A,REZ
+NSA_Yorke,-35.12,137.71,Wattle Point,90.75,REZ
+NSA_Leigh,-30.59,138.38,Leigh Creek,N/A,REZ
+NSA_Roxby,-30.56,136.88,Roxby Downs,N/A,REZ
+NSA_Coober,-29,134.75,Coober Pedy,N/A,Zone center
+ADE_main,-35.58,138.14,Starfish Hill,34.5,existing
+ADE_S,-35.7,139.32,Meningie,N/A,REZ
+SESA_main,-37.76,140.4,Lake Bonney,278,existing
+SESA_N,-36.39,140.35,Willalooka,N/A,REZ
+NQ_main,-17.2,145.4,Mount Emerald,180.5,existing
+NQ_N,-15.59,145.27,Archer Point (proposed),120,REZ
+NQ_Forsayth,-18.58,143.7,Forsayth (proposed),75,REZ
+NQ_Carpentaria,-18.17,140.42,Gulf of Carpentaria,N/A,Existing distribution network
+NQ_W,-20.73,139.53,Mount Isa,N/A,Existing distribution network
+NQ_Kennedy,-21,145,Kennedy energy park,43.5,REZ
+NQ_SE,-20.9,148.18,Eungella hinterland (Bowen),N/A,REZ
+CQ_main,-22.77,149.53,Clark Creek (Feasibility),800,REZ
+CQ_E,-24.41,150.43,Banana Range,180,REZ
+CQ_C,-23.44,144.22,Longreach,N/A,REZ
+SWQ_main,-26.55,151.33,Coopers Gap,453,existing
+SWQ_S,-28.45,151.72,MacIntyre (proposed),526,REZ
+SWQ_C,-27.78,145.97,Wyandra,N/A,Zone center
+SEQ_main,-25.776,152.795,Forest Wind (Feasibility),1200,proposed
+NNS_main,-29.8,151.55,Sapphire and White Rock,175,REZ
+NNS_E,-29.72,150.48,North West NSW REZ,N/A,REZ
+NNS_C,-30.09,145.96,Bourke,N/A,Zone center
+NCEN_main,-32.39,149.06,Bodangora,113,REZ
+NCEN_N,-31.84,149.14,Mendooran,N/A,REZ
+NCEN_C,-31.5,145.81,Cobar,N/A,Zone center
+NCEN_Dubbo,-31.83,148.41,Dubbo,N/A,REZ
+SWNSW_main,-31.79,141.26,Silverton,199,REZ
+SWNSW_C,-34.58,146,Darlington point,N/A,Zone center
+CAN_main,-34.87,149.39,Collector,226.8,REZ
+CAN_S,-36.58,149.08,Boco Rock,114,existing
+CVIC_main,-36.428,142.32,Murra Warra,226,REZ
+CVIC_N,-35.34,143.51,Swan Hill,N/A,REZ
+CVIC_S,-37.1,142.97,Bulgana,194,REZ
+NVIC_Shepparton,-36.23,145.86,Shepparton,N/A,REZ
+MEL_main,-37.54,143.25,Stockyard Hill,530,existing
+MEL_W,-38.35,141.59,Portland,195,REZ
+MEL_E,-37.74,144.17,Moorabool,312,REZ
+LV_main,-38.789,145.926,Bald Hills,107,REZ
+LV_S,-38.5,146.55,Yarram,N/A,approved
+TAS_main,-40.78,147.98,Musselroe,168,REZ
+TAS_C,-42.15,146.69,Cattle hill,148.4,REZ
+TAS_W,-40.69,144.72,Woolnorth,140,REZ

@@ -1,0 +1,11 @@
+from AEMO NEM fact sheet (30/01/2024),,,
+fuel,capacity_MW_Oct23,supply_mix_pc,note
+coal,21255,57.6,
+rooftop solar,18000,9.96,
+gas,11924,5.49,
+wind,10582,12.95,
+grid solar,8652,6.15,
+hydro,7999,7.62,
+battery,1413,0.24,sum
+biomass,542,0.24,sum
+other,214,0.24,sum

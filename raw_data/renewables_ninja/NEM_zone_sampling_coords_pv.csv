@@ -1,0 +1,40 @@
+name,lat,lon,location,note
+NSA_Riverland,-34.15,140.14,Riverland,REZ
+NSA_Augusta,-32.62,137.58,Lincoln Gap,REZ
+NSA_EyreW,-32.83,134.17,Streaky Bay,REZ
+NSA_Leigh,-30.59,138.38,Leigh Creek,REZ
+NSA_Roxby,-30.56,136.88,Roxby Downs,REZ
+NSA_Coober,-29,134.75,Coober Pedy,Zone center
+ADE_Adelaide,-34.92,138.61,Adelaide,city
+SESA_N,-35.91,140.13,Keith,North end of zone
+NQ_main,-17.2,145.4,Mount Emerald,existing wind
+NQ_Townsville,-19.29,146.66,Townsville,REZ
+NQ_Forsayth,-18.58,143.7,Forsayth (proposed),REZ
+NQ_W,-20.73,139.53,Mount Isa,Existing distribution network
+NQ_Kennedy,-21,145,Kennedy energy park,REZ
+NQ_Bowen,-20.93,148.34,Bowen hub (proposed),REZ
+CQ_main,-22.77,149.53,Clark Creek (Feasibility),REZ
+CQ_E,-24.41,150.43,Banana Range,REZ
+CQ_C,-23.44,144.22,Longreach,REZ
+SWQ_main,-26.55,151.33,Coopers Gap,REZ
+SWQ_S,-28.45,151.72,MacIntyre (proposed),REZ
+SWQ_C,-27.78,145.97,Wyandra,Zone center
+SEQ_Brisbane,-27.47,153.03,Brisbane,city
+SEQ_Susan,-25.42,152.74,Susan River,existing solar
+NNS_main,-29.8,151.55,Sapphire and White Rock,REZ
+NNS_E,-29.72,150.48,North West NSW REZ,REZ
+NNS_C,-30.09,145.96,Bourke,Zone center
+NNS_N,-29.16,149.34,Moree,REZ
+NCEN_main,-32.39,149.06,Bodangora,REZ
+NCEN_Sydney,-33.8,151.01,Sydney,city
+NCEN_C,-31.5,145.81,Cobar,Zone center
+NCEN_Dubbo,-31.83,148.41,Dubbo,REZ
+SWNSW_main,-31.79,141.26,Silverton,REZ
+SWNSW_C,-34.58,146,Darlington point,REZ
+SWNSW_S,-34.6,144.5,South Hay,REZ
+CAN_Canberra,-35.31,149.13,Canberra,city
+CVIC_N,-35.34,143.51,Swan Hill,REZ
+NVIC_Shepparton,-36.23,145.86,Shepparton,REZ
+MEL_Melbourne,-37.8,145.06,Melbourne,city
+LV_main,-38.789,145.926,Bald Hills,REZ
+TAS_C,-42.15,146.69,Cattle hill,REZ
